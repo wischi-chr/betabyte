@@ -9,7 +9,13 @@ Der BB besteht aus folgenden Komponenten:
   * COB Controller (https://de.wikipedia.org/wiki/Chip-On-Board-Technologie)
     * glob top (Epoxidharz)
     * 112 Pins (außen) - Weitere Details unbekannt
-  *  "eine Hand voll" Dioden: für die Tastaturmatrix
+  * Lautsprecher (0815 ^^)
+  * LCD
+    * Pixelmatrix
+    * Custom Segmente im Header
+    * nicht verdrahtet sondern "angepresst"
+    * (genaue Anzahl der Segmente/Pixel noch nicht gezählt)
+  * "eine Hand voll" Dioden: für die Tastaturmatrix
   * Weitere Bauteile (Widerständer, Elkos, Kondensatoren, Transistoren)
     * Genaueres Schaltbild noch nicht analysiert (aktuell Priorität auf IC)
     * Einiges davon vermutlich Audiovorstufe
